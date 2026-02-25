@@ -235,3 +235,4 @@ async def cleanup():
 
 # Export for integration with FastAPI
 __all__ = ['sio', 'initialize_redis', 'start_background_tasks', 'cleanup']
+
